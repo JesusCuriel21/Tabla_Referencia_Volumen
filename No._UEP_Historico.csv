@@ -20,7 +20,7 @@ Clarinetero;1;4
 Punta Bonita; ; 
 Puerto del Pescado (San José Del Guaviare);1;1
 Puerto (Orocué);1;6
-Puerto de las Canoas (Puerto Berrío);0;0
+Puerto de las Canoas (Puerto Berrío); ; 
 Pueblo Nuevo; ; 
 Puerto Kenedy; ; 
 Bajito Vaquería; ; 
@@ -38,7 +38,7 @@ El Puerto (Tumaco); ;
 Puerto ESSO;1;6
 Tagachí; ; 
 Puerto de desembarco (Barrancominas);1;12
-Muelles del Camarón;0;0
+Muelles del Camarón; ; 
 Pueblo Nuevo (Barrancominas);1;5
 Muelle Principal (Puerto Leguízamo);1;7
 Juanchaco; ; 
@@ -51,9 +51,9 @@ Puerto César Augusto; ;
 Marriaga;6;22
 Cartagena del Chairá;2;10
 Las Balsas;1;5
-La Casa del Pescador;0;0
+La Casa del Pescador; ; 
 Puerto (Arauquita);2;10
-Distribuidoras de Tumaco;0;0
+Distribuidoras de Tumaco; ; 
 Desembarcadero (Murindó);1;1
 La Isla de los Palacios; ; 
 Muelle Hong Kong; ; 
@@ -69,7 +69,7 @@ Amarales; ;
 Muelle La Esmeralda;1;1
 Bodegas (Leticia);1;8
 El Malecón (Neiva);2;10
-Puerto Principal (Leticia);1;11
+Puerto Principal (Leticia);2;11
 La Gloria; ; 
 Desembarcadero (Supía);2;4
 Malecón (Puerto Gaitán);1;7
@@ -90,7 +90,7 @@ El Puerto (Puerto Carreño); ;
 Playa Nueva;1;6
 San José de la Calle; ; 
 Candelillas de Mar; ; 
-Chontal;0;0
+Chontal; ; 
 Muelle Pescadores (Puerto Boyacá);1;8
 Puerto de los Jhonsons (Puerto Boyacá);1;6
 Miel de Abeja; ; 
